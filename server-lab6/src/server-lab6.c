@@ -32,7 +32,7 @@ int timer_table[10]={0};
  * Purpose: Print error message
  * param: char *
  * version: 1.0
- * author: SeyedAmin SeyedMahmoudian,Flaming Patel
+ * author: SeyedAmin SeyedMahmoudian
  * return: void
  */
 void error(char * msg){
@@ -54,7 +54,7 @@ void logme(char * msg){
  * 			and write the information transmitted from the client to the file.
  * param: None
  * version:1
- * author: SeyedAmin SeyedMahmoudian, Flaming Patel
+ * author: SeyedAmin SeyedMahmoudian
  * return: int
  */
 int main(void) {
@@ -294,7 +294,7 @@ int main(void) {
  * 			if 2 was entered count the number of the letter requested
  * param: clientMsg*,serverMsg*
  * version:1
- * author: SeyedAmin SeyedMahmoudian,Flaming Patel
+ * author: SeyedAmin SeyedMahmoudian
  * return:-
  */
 void initReply(clientMsg* client, serverMsg* server){

@@ -4,7 +4,7 @@
  * 		  it require a port number
  *  CST8244 - Real-Time Programming
  *  Version: 1
- *  Author: Flaming Patel ,  Seyedamin Seyedmahmoudian
+ *  Author:   Seyedamin Seyedmahmoudian
  *  Date: 08 March 2018
  */
 #include <stdio.h>

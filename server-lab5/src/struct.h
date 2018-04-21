@@ -2,7 +2,7 @@
  * Purpose:header file used in assignment
  *  CST8244 - Real-Time Programming
  *  Version: 1
- *  Author: Flaming Patel ,  Seyedamin Seyedmahmoudian
+ *  Author:   Seyedamin Seyedmahmoudian
  *  Date: 08 March 2018
  */
 #ifndef SRC_STRUCT_H_

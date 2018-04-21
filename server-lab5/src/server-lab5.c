@@ -4,7 +4,7 @@
  * 		  it require a port number
  *  CST8244 - Real-Time Programming
  *  Version: 1
- *  Author: Flaming Patel ,  Seyedamin Seyedmahmoudian
+ *  Author:   Seyedamin Seyedmahmoudian
  *  Date: 08 March 2018
  */
 #include <stdio.h>
@@ -23,7 +23,7 @@ int semaphoreCounter=3;
  * Purpose: Print error message
  * param: char *
  * version: 1.0
- * author: SeyedAmin SeyedMahmoudian,Flaming Patel
+ * author: SeyedAmin SeyedMahmoudian 
  * return: void
  */
 void error(char * msg){
@@ -45,7 +45,7 @@ void logme(char * msg){
  * 			and write the information transmitted from the client to the file.
  * param: None
  * version:1
- * author: SeyedAmin SeyedMahmoudian, Flaming Patel
+ * author: SeyedAmin SeyedMahmoudian, 
  * return: int
  */
 int main(void) {
@@ -239,7 +239,7 @@ int main(void) {
  * 			if 2 was entered count the number of the letter requested
  * param: clientMsg*,serverMsg*
  * version:1
- * author: SeyedAmin SeyedMahmoudian,Flaming Patel
+ * author: SeyedAmin SeyedMahmoudian,
  * return:-
  */
 void initReply(clientMsg* client, serverMsg* server){

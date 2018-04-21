@@ -3,7 +3,7 @@
  * 			it requires hostname and port number of the server
  *  CST8244 - Real-Time Programming
  *  Version: 1
- *  Author:  Flaming Patel , Seyedamin Seyedmahmoudian
+ *  Author:  Seyedamin Seyedmahmoudian
  *  Date: 08 March 2018
  */
 #include <stdio.h>
@@ -32,7 +32,7 @@ void validate(char*,clientMsg*);
  * Purpose: Print error message
  * param: char *
  * version: 1.0
- * author: SeyedAmin SeyedMahmoudian,Flaming Patel
+ * author: SeyedAmin SeyedMahmoudian
  * return: void
  */
 void error(char*msg){
@@ -44,7 +44,7 @@ void error(char*msg){
  * Purpose:
  * param: int , char *
  * version:1
- * author: SeyedAmin SeyedMahmoudian,Flaming Patel
+ * author: SeyedAmin SeyedMahmoudian
  * return: int
  */
 int main(int argc, char *argv[]) {
@@ -110,7 +110,7 @@ int main(int argc, char *argv[]) {
  * Purpose: Helper function to send and recieve messages from or to the server
  * param: int,clientMsg,serverMsg
  * version:1
- * author: SeyedAmin SeyedMahmoudian,Flaming Patel
+ * author: SeyedAmin SeyedMahmoudian
  * return: -
  */
 void check(int coid,clientMsg client,serverMsg server){
@@ -134,7 +134,7 @@ void check(int coid,clientMsg client,serverMsg server){
  * 			if the user entered char it will set the char flag
  * param: char *, clientMsg *
  * version:1
- * author: SeyedAmin SeyedMahmoudian,Flaming Patel
+ * author: SeyedAmin SeyedMahmoudian,
  * return: -
  */
 void validate(char* input,clientMsg* msg){

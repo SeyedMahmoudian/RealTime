@@ -3,7 +3,7 @@
 * 		  acknowledge the when a message is received, it require a port number
 *  CST8244 - Real-Time Programming
 *  Version: 1
-*  Author: Flaming Patel ,  Seyedamin Seyedmahmoudian
+*  Author:   Seyedamin Seyedmahmoudian
 *  Date: 17 February 2018
 */
 
@@ -29,7 +29,7 @@ void error(char *msg) {
  * 			once the message was successfully received and printed it will send back the ack to the client stating the message was received.
  * param: int , char *
  * version:1
- * author:MOHAMMAD PATOARY
+ * author:Seyedamin Seyedmahmoudian
  * return: int
  */
 
