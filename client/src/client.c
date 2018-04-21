@@ -3,7 +3,7 @@
 * 			it requires hostname and port number of the server
 *  CST8244 - Real-Time Programming
 *  Version: 1
-*  Author:  Flaming Patel , Seyedamin Seyedmahmoudian
+*  Author:  Seyedamin Seyedmahmoudian
 *  Date: 17 February 2018
 */
 
